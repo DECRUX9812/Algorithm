@@ -7,14 +7,23 @@ and afetr the array elements are instrted the heap sort function will be called 
 you can see the sorted array using heapsort
 The sample run is given below:-
 
+
  clang++-7 -pthread -std=c++17 -o main main.cpp
+
  ./main
 
+
 Size of the arrsy?:
+
 4
+
 Enter array:
+
 34 52 634 463
 
+
 Sorting...........................................
+
 Sorted array is:
+
 34 52 463 634  
